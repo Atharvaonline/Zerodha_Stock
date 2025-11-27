@@ -37,11 +37,13 @@ function Awards() {
                                     <p>Bonds and Goverment</p>
                                 </li>
                             </ul>
+                           
                         </div>
+                        
 
                     </div>
                      
-
+                    <img src='media/images/pressLogos.png' alt='pressLogos' style={{ width: "100%"}} />
                      
                 </div>
             </div>
